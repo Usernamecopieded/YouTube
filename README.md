@@ -68,7 +68,7 @@ Install dependencies
 Start the server
 
 ```bash
-  node app.js 
+  node run dev 
 ```
 
 
