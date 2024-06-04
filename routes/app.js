@@ -15,9 +15,9 @@ router.get("/subscriber", async (req, res) => {
 });
 // Routes
 // API to render html file
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "/index.html"));
-});
+//app.get("/", (req, res) => {
+  //res.sendFile(path.join(__dirname, "/index.html"));
+//});
 
 
 // function to add subscriberModel
