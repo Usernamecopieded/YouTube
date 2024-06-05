@@ -94,7 +94,7 @@ Keep in mind during deployment put...
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Usernamecopieded/YouTube
 ```
 
 Install dependencies
